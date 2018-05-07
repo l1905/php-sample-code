@@ -1,0 +1,12 @@
+{
+    "require": {
+        "license": "MIT",
+        "authors": [
+        {
+            "name": "test",
+            "email": "test@test.smzdm.com",
+            "homepage": "http://www.test.com",
+            "role": "Developer"
+        }]
+    }
+}
